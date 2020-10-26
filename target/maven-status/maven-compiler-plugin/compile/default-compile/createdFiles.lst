@@ -1,4 +1,6 @@
+service\ProductServiceImpl.class
 enity\Cloth.class
+api\ProductService.class
 api\UserService.class
 enity\User.class
 pl\DamianSoltyszewski\Main.class
